@@ -1,5 +1,5 @@
 # golang-booking
-A small scale booking application using golang. 
+A small scale Booking Application using Golang. 
 
 ### Local to Remote :
 1. git init
